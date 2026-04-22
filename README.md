@@ -52,7 +52,7 @@ Input (128x128x3)
 | Recall | -- |
 | F1-Score | -- |
 
-> Fill in your actual precision/recall/F1 values from your classification report. Add your confusion matrix image below.
+confusion matrix image below.
 
 <!-- ![Confusion Matrix](results/confusion_matrix.png) -->
 
